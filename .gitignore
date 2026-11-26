@@ -1,0 +1,10 @@
+artifacts/
+out/*
+!out/.gitkeep
+in/*
+!in/.gitkeep
+eval/out/
+__pycache__/
+*.pyc
+.env
+*.bundle
